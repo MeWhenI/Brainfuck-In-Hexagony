@@ -1,10 +1,10 @@
 # Brainfuck In Hexagony
 
-A Brainfuck interpreter written in [Martin Ender's Hexagony](https://github.com/m-ender/hexagony).
+A brainfuck interpreter written in [Martin Ender's Hexagony](https://github.com/m-ender/hexagony).
 
 # Specs
 
-Takes Brainfuck source code as a command line argument, and input to the Brainfuck program as an optional second argument.
+Takes brainfuck source code as a command line argument, and input to the brainfuck program as an optional second argument.
 
 Memory is unlimited in both directions from the origin.
 
