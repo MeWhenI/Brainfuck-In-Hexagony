@@ -1,4 +1,4 @@
-# Brainfuck_Interpreter
+# Brainfuck In Hexagony
 
 A Brainfuck interpreter written in [Martin Ender's Hexagony](https://github.com/m-ender/hexagony).
 
