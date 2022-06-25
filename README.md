@@ -15,7 +15,7 @@ Reading a byte after input is exhausted reads a zero byte.
 # Explanation
 
 
-![Execution map of Hexagony code](https://github.com/MeWhenI/Brainfuck-In-Hexagony/blob/main/Codemap.png "Code map")
+![Execution map of Hexagony code](https://github.com/MeWhenI/Brainfuck-In-Hexagony/blob/main/CodeMap.png "Code map")
 
 Image made using [Timwi's Hexagony Colorer](https://github.com/Timwi/HexagonyColorer). More detailed explanation coming soon.
 
